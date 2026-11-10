@@ -1,8 +1,3 @@
-"""
-🍿DODA KINO - Telegram kino/serial boti
-Kutubxona: aiogram 3.x   ->   pip install -U aiogram
-Ishga tushirish:  BOT_TOKEN="123:ABC" python bot.py
-"""
 import asyncio
 import html
 import logging
